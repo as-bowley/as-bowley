@@ -1,5 +1,5 @@
 ## Hi, I'm Alex
-I'm a frontend developer from the UK 🇬🇧 & living in Germany🇩
+I'm a frontend developer from the UK 🇬🇧 & living in Germany🇩🇪
 
 I'm passionate about continuing to learn and improve my development skills.
 
