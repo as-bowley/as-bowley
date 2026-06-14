@@ -1,11 +1,6 @@
-## Hi, I'm Alex
-I'm a frontend developer from the UK 🇬🇧 & living in Germany🇩🇪
+## Hi
+I'm a Web Developer based out of Germany.
 
-I'm passionate about continuing to learn and improve my development skills.
-
-### Currently Using:
-[![Using](https://skillicons.dev/icons?i=react,wordpress,laravel,tailwind&perline=5)](https://skillicons.dev)
-
-### Learning:
-[![Learning](https://skillicons.dev/icons?i=vue,docker,cpp&perline=5)](https://skillicons.dev)
+### My toolbox:
+[![Using](https://skillicons.dev/icons?i=ts,php,py,cpp,react,nextjs,wordpress,laravel,tailwind,jest,&perline=5)](https://skillicons.dev)
 
